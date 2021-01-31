@@ -1,2 +1,2 @@
-# zhenya-band-JS2020Q3
-Private repository for @zhenya-band
+# Virtual keyboard 
+deploy https://rolling-scopes-school.github.io/zhenya-band-JS2020Q3/virtual-keyboard/index.html
